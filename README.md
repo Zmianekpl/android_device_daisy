@@ -21,4 +21,4 @@
 
 ## Device Picture
 
-![Xiaomi Redmi 6 Pro](https://xiaomi.world/9773-large_default/xiaomi-redmi-6-pro-4-gb-64-gb-rosso.jpg "Xiaomi Redmi 6 Pro")
+![Xiaomi Mi A2 Lite](https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/09/14/goods_img_big-v1/20180914150953_97898.jpg "Xiaomi Mi A2 Lite")
