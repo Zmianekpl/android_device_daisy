@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "resurrectionremix-devices/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
+    "repository": "resurrectionremix-devices/kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch": "pie"
+  }
+] 
